@@ -1,6 +1,6 @@
 # Gradient Boosting Model Hyperparameter Tuning
 
-![Berlin Image](gwdb-wine-database.jpg)
+![Wine](gwdb-wine-database.jpg)
 
 
 Welcome to the Gradient Boosting Model Hyperparameter Tuning project! In this repository, we have conducted an in-depth analysis of a Gradient Boosting Classifier with various hyperparameters using the scikit-learn library. Our goal is to optimize the model's performance by tuning hyperparameters and evaluating its impact on classification tasks.
